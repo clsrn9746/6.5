@@ -1,13 +1,9 @@
-﻿// 4일
-
+﻿
 #include <iostream>
-
+using namespace std;
 int main()
 {
-    std::cout << "Hello World!\n";
-    std::cout << "Hello World2!\n";
-    std::cout << "Hello World3!\n";
-    std::cout << "Hello World4!\n";
+	cout << "hello world!";
 
 }
 
